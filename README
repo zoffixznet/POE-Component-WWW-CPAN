@@ -1,0 +1,44 @@
+POE-Component-WWW-CPAN
+
+The module is a non-blocking wrapper around L<WWW::CPAN>
+which provides interface to L<http://search.cpan.org/> searching
+capabilities.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc POE::Component::WWW::CPAN
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=POE-Component-WWW-CPAN
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/POE-Component-WWW-CPAN
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/POE-Component-WWW-CPAN
+
+    Search CPAN
+        http://search.cpan.org/dist/POE-Component-WWW-CPAN
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 Zoffix Znet
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
